@@ -1,4 +1,4 @@
-Data can be downloaded from [here](https://drive.google.com/drive/folders/1dTSRzUdBRlz8NFcANnrbuz-XicnYa97_?usp=sharing).
+Data can be downloaded from [here](https://mega.nz/folder/BM42HarB#lZPcsxMIMvNHjpLS1BnqAQ).
 
 To run code well, it's necessary to download the following directories and put them in this directory without changing thier names.
 
