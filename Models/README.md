@@ -1,4 +1,4 @@
-Models can be downloaded from [here](https://drive.google.com/drive/folders/1QkOgxTg4XkNd_qaE7gSZ_NUoeuT3DpNc?usp=sharing).
+Models can be downloaded from [here](https://mega.nz/folder/BM42HarB#lZPcsxMIMvNHjpLS1BnqAQ).
 
 Each directory contains all files of one model.
 
